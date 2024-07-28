@@ -1,1 +1,1 @@
-# 3JavascriptProjectsEveryBeginnerShouldBuild
+# 3 Javascript Projects Every Beginner Should Build
